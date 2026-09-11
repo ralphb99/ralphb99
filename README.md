@@ -1,1 +1,1 @@
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=ralphb99&theme=midnight_sakura)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ralphb99&theme=midnight_sakura)
